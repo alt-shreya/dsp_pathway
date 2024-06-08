@@ -23,7 +23,7 @@ src="https://i.pinimg.com/originals/70/e4/b5/70e4b567bbcced1e998cccbe8b27fd28.jp
 style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 80%;">
+           width: 50%;">
 
 The sound is then adapted to smaller screens. During this mixing process, many adjustments occur, but the resulting sound isn't optimized for every device due to the sheer variety of streaming devices. 
 
@@ -252,7 +252,7 @@ And voila! Now you have created not only a much more balanced auditory experienc
 style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 80%;">
+           width: 50%;">
 
 
 ## ✍️ Final Thoughts
