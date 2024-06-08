@@ -244,6 +244,8 @@ new_audio.export('PATH_TO_NEW_AUDIO', format='wav')
 ```
 Test this out on different audio files. You can experiment with tuning [the parameters](#️-a-brief-explanation-of-the-parameters-for-dsp) to get different results. 
 
+> Full code at [GitHub repo](https://github.com/alt-shreya/pathway.git).
+
 And voila! Now you have created not only a much more balanced auditory experience but also fond memories of using Pathway and DSP libraries!
 
 <img src="assets/blog/treasure.png"
