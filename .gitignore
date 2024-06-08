@@ -1,0 +1,5 @@
+audio/
+assets/v1/
+assets/v2/
+.vscode/
+scripts/__pycache__/
