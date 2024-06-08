@@ -29,7 +29,7 @@ $ python main.py <YOUR_AUDIO_FILE_PATH>
 
 The path to your audio file is indicated on your CLI.
 
-## Support and Troubleshooting
+# Support and Troubleshooting
 For support, feel free to open an issue in this GitHub repository and mention @alt-shreya.
 
 
