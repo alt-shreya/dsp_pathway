@@ -37,4 +37,4 @@ For support, feel free to open an issue in this GitHub repository and mention @a
 
 Contributions welcome! 
 
-I'm currently working on defining guidelines. In the meantime, you can start by familiarizing yourself with the [GitHub Contribution guidelines](https://docs.github.com/en/contributing), provide a solid foundation for best practices in contributing to projects. 
+I'm currently working on defining guidelines. In the meantime, the [GitHub Contribution guidelines](https://docs.github.com/en/contributing), provide a solid foundation for best practices in contributing to projects. 
